@@ -1,0 +1,69 @@
+D:\IT !important\Winforms\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.exe
+D:\IT !important\Winforms\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.deps.json
+D:\IT !important\Winforms\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.runtimeconfig.json
+D:\IT !important\Winforms\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.dll
+D:\IT !important\Winforms\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.pdb
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.csproj.AssemblyReference.cache
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.Form1.resources
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.csproj.GenerateResource.cache
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfoInputs.cache
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfo.cs
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.csproj.CoreCompileInputs.cache
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.dll
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\refint\Game_Caro.dll
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.pdb
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.genruntimeconfig.cache
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\ref\Game_Caro.dll
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.Properties.Resources.resources
+D:\LapTrinhMang\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.exe
+D:\LapTrinhMang\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.deps.json
+D:\LapTrinhMang\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.runtimeconfig.json
+D:\LapTrinhMang\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.dll
+D:\LapTrinhMang\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.pdb
+D:\LapTrinhMang\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.Form1.resources
+D:\LapTrinhMang\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.Properties.Resources.resources
+D:\LapTrinhMang\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.csproj.GenerateResource.cache
+D:\LapTrinhMang\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfoInputs.cache
+D:\LapTrinhMang\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfo.cs
+D:\LapTrinhMang\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.dll
+D:\LapTrinhMang\Game_Caro-main\obj\Debug\net6.0-windows\refint\Game_Caro.dll
+D:\LapTrinhMang\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.pdb
+D:\LapTrinhMang\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.genruntimeconfig.cache
+D:\LapTrinhMang\Game_Caro-main\obj\Debug\net6.0-windows\ref\Game_Caro.dll
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.exe
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.deps.json
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.runtimeconfig.json
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.dll
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.pdb
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.Form1.resources
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.Properties.Resources.resources
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.csproj.GenerateResource.cache
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfoInputs.cache
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfo.cs
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.csproj.CoreCompileInputs.cache
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.dll
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\refint\Game_Caro.dll
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.pdb
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.genruntimeconfig.cache
+C:\Users\tranc\OneDrive\Máy tính\Nhom17-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\ref\Game_Caro.dll
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.exe
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.deps.json
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.runtimeconfig.json
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.dll
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\bin\Debug\net6.0-windows\Game_Caro.pdb
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.Form1.resources
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.Properties.Resources.resources
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.csproj.GenerateResource.cache
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfoInputs.cache
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfo.cs
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.csproj.CoreCompileInputs.cache
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.dll
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\refint\Game_Caro.dll
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.pdb
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.genruntimeconfig.cache
+C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\ref\Game_Caro.dll
