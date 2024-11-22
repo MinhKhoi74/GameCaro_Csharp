@@ -61,7 +61,7 @@
             pnlChessBeard.BackColor = SystemColors.Control;
             pnlChessBeard.Location = new Point(12, 12);
             pnlChessBeard.Name = "pnlChessBeard";
-            pnlChessBeard.Size = new Size(863, 451);
+            pnlChessBeard.Size = new Size(1191, 451);
             pnlChessBeard.TabIndex = 0;
             pnlChessBeard.Paint += pnlChessBeard_Paint;
             pnlChessBeard.DoubleClick += pnlChessBeard_DoubleClick;
@@ -152,7 +152,7 @@
             panel3.Controls.Add(txbPlayerName);
             panel3.Location = new Point(132, 473);
             panel3.Name = "panel3";
-            panel3.Size = new Size(743, 114);
+            panel3.Size = new Size(1071, 114);
             panel3.TabIndex = 0;
             panel3.Paint += panel3_Paint;
             // 
@@ -250,7 +250,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.GradientInactiveCaption;
-            ClientSize = new Size(887, 599);
+            ClientSize = new Size(1215, 599);
             Controls.Add(panel3);
             Controls.Add(panel2);
             Controls.Add(pnlChessBeard);

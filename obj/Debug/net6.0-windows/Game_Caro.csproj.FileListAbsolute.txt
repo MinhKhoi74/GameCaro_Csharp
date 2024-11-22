@@ -67,3 +67,22 @@ C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\De
 C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.pdb
 C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\Game_Caro.genruntimeconfig.cache
 C:\Users\tranc\OneDrive\Máy tính\Nhom10-LapTrinhGameCaro\Game_Caro-main\obj\Debug\net6.0-windows\ref\Game_Caro.dll
+C:\Users\Admin\Desktop\CaroGame\bin\Debug\net6.0-windows\Game_Caro.exe
+C:\Users\Admin\Desktop\CaroGame\bin\Debug\net6.0-windows\Game_Caro.deps.json
+C:\Users\Admin\Desktop\CaroGame\bin\Debug\net6.0-windows\Game_Caro.runtimeconfig.json
+C:\Users\Admin\Desktop\CaroGame\bin\Debug\net6.0-windows\Game_Caro.dll
+C:\Users\Admin\Desktop\CaroGame\bin\Debug\net6.0-windows\Game_Caro.pdb
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\Game_Caro.Form1.resources
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\Game_Caro.Properties.Resources.resources
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\Game_Caro.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\Game_Caro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\Game_Caro.sourcelink.json
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\Game_Caro.dll
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\refint\Game_Caro.dll
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\Game_Caro.pdb
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\Game_Caro.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\ref\Game_Caro.dll
+C:\Users\Admin\Desktop\CaroGame\obj\Debug\net6.0-windows\Game_Caro.CustomMessageBox.resources

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tranc\\OneDrive\\Máy tính\\Nhom10-LapTrinhGameCaro\\Game_Caro-main\\Game_Caro.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\CaroGame\\Game_Caro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tranc\\OneDrive\\Máy tính\\Nhom10-LapTrinhGameCaro\\Game_Caro-main\\Game_Caro.csproj": {
+    "C:\\Users\\Admin\\Desktop\\CaroGame\\Game_Caro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tranc\\OneDrive\\Máy tính\\Nhom10-LapTrinhGameCaro\\Game_Caro-main\\Game_Caro.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\CaroGame\\Game_Caro.csproj",
         "projectName": "Game_Caro",
-        "projectPath": "C:\\Users\\tranc\\OneDrive\\Máy tính\\Nhom10-LapTrinhGameCaro\\Game_Caro-main\\Game_Caro.csproj",
-        "packagesPath": "C:\\Users\\tranc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tranc\\OneDrive\\Máy tính\\Nhom10-LapTrinhGameCaro\\Game_Caro-main\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\CaroGame\\Game_Caro.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\CaroGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tranc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,19 +58,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
+              "version": "[6.0.35, 6.0.35]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.27, 6.0.27]"
+              "version": "[6.0.35, 6.0.35]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
+              "version": "[6.0.35, 6.0.35]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
+              "version": "[6.0.35, 6.0.35]"
             }
           ],
           "frameworkReferences": {
@@ -82,7 +81,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
