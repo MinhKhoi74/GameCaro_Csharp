@@ -12,16 +12,16 @@ namespace Game_Caro
     {
         public CustomMessageBox(string message, Color textColor)
         {
-            // Đặt thuộc tính Text để hiển thị thông điệp
+         
             Text = "Message";
 
-            // Đặt thuộc tính Size để điều chỉnh kích thước của cửa sổ
+            
             Size = new Size(400, 150);
 
-            // Đặt thuộc tính StartPosition để đặt vị trí xuất hiện của cửa sổ
+      
             StartPosition = FormStartPosition.CenterScreen;
 
-            // Đặt thuộc tính ControlBox là false để ẩn các nút điều khiển cửa sổ (như nút đóng)
+            
             ControlBox = true;
 
             // Tạo một Label để hiển thị thông điệp
